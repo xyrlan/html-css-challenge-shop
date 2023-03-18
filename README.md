@@ -2,6 +2,6 @@
  basic html / css challenge by the site
  https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub
  
-LIVE URL : https://github.com/xyrlan/html-css-challenge-shop.git
+LIVE URL : https://xyrlan.github.io/html-css-challenge-shop/
  
  
